@@ -1,4 +1,4 @@
-# NOTE: This is an unintended FORK of [https://github.com/Rjpdude/twbs-react-grid](https://github.com/Rjpdude/twbs-react-grid) - @Rjpdude - please advise :)
+### NOTE: This is an unintended FORK of [https://github.com/Rjpdude/twbs-react-grid](https://github.com/Rjpdude/twbs-react-grid) - [@Rjpdude](https://github.com/Rjpdude) - please advise :)
 
 # Bootstrap React Grid
 
