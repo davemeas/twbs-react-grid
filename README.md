@@ -1,3 +1,5 @@
+# NOTE: This is an unintended FORK of [https://github.com/Rjpdude/twbs-react-grid](https://github.com/Rjpdude/twbs-react-grid) - @Rjpdude - please advise :)
+
 # Bootstrap React Grid
 
 A full implementation of the standalone Bootstrap 4 flexbox grid system for React, written in TypeScript and built down to ES5 for any web project.
